@@ -1,4 +1,4 @@
-# beloved-and-worthy-blog#
+# beloved-and-worthy-blog
 
 # Table of Contents
  * [Description](#Description)
